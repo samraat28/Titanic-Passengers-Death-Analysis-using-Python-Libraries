@@ -1,6 +1,8 @@
 # Titanic-Passengers-Death-Analysis-using-Python-Libraries
 Titanic Survival Rate Analysis &amp; Prediction using Python. Includes data cleaning, exploratory data analysis (EDA), visualization using Matplotlib and Seaborn, and a Logistic Regression model to predict passenger survival based on age, gender, passenger class, fare, and family details.
 
+Dataset Link : 
+
 1. Project Overview
 
 The Titanic Survival Rate Analytics & Prediction project is a Python-based Data Analytics and Machine Learning project that explores passenger information from the historic Titanic disaster to understand survival patterns and predict whether a passenger survived or not.
